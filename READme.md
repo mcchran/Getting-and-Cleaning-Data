@@ -1,7 +1,7 @@
 ####This is the the recipie of the data anlaysis that I performed####
 
 **Hint:** First of all **runAnalysis.R** must be placed under the same directory
-with the **UCI HAR Dataset** in order to run properly. A .txt file named
+with the **UCI HAR Dataset** in order to run properly. Moreover packet **dplyr** and **data.table** are required. A .txt file named
 *tidyse.txt* is returned in the same directory.
 
 Step 1: loading related files into R environment neme columns descriptively

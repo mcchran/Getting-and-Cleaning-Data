@@ -53,4 +53,3 @@ tidyset <- summarise_each(bySubjectsActivities,funs(mean,sd))
 
 #fianly the tidy dataset is stored under the same repository
 write.table(tidyset,file="tidyset.txt",row.names=FALSE)
-
